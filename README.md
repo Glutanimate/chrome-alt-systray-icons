@@ -6,17 +6,11 @@ Alternative systray icons for Google Chrome:
 
 **mono-dark**
 
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6864)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6865)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6866)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6867)
+![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6864)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6865)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6866)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/mono-dark/PNG/32/6867)
 
 **flat light**
 
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6864)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6865)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6866)
-![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6867)
+![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6864)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6865)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6866)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6867)
 
 **Installation instructions**
 
