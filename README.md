@@ -1,8 +1,10 @@
 ## chrome-alt-systray-icons
 
+Alternative systray icons for Google Chrome.
+
 ### Overview
 
-Alternative systray icons for Google Chrome:
+This repository currently hosts three different icon-sets:
 
 **mono-dark**
 
@@ -12,11 +14,11 @@ Alternative systray icons for Google Chrome:
 
 ![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6864)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6865)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6866)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/flat-light/PNG/32/6867)
 
-**ubuntu-mono-light** by @fbrundu
+**ubuntu-mono-light** by [@fbrundu](https://github.com/fbrundu)
 
 ![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/ubuntu-mono-light/PNG/32/6864)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/ubuntu-mono-light/PNG/32/6865)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/ubuntu-mono-light/PNG/32/6866)&nbsp;&nbsp;![](https://raw.githubusercontent.com/Glutanimate/chrome-alt-systray-icons/master/ubuntu-mono-light/PNG/32/6867)
 
-**Installation instructions**
+### Installation instructions
 
 ➥ http://askubuntu.com/a/473417/81372
 
